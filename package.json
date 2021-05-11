@@ -1,0 +1,19 @@
+{
+  "name": "node-inertia",
+  "version": "1.0.0",
+  "description": "A Node.js adapter/middleware for Inertia.js",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordankaerim/node-inertia.git"
+  },
+  "keywords": [
+    "Inertia.js"
+  ],
+  "author": "Karim Jordan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jordankaerim/node-inertia/issues"
+  },
+  "homepage": "https://github.com/jordankaerim/node-inertia#readme"
+}
